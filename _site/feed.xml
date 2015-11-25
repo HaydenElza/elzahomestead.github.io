@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elza Homestead</title>
+    <description>We are a family homestead based business specializing in local and sustainable food production. All of our produce is grown using natural and organic methods, we never use chemicals of any kind! &lt;br&gt;&lt;br&gt; Jared Elza – Homesteader
+</description>
+    <link>elzahomestead.com/blog//blog/</link>
+    <atom:link href="elzahomestead.com/blog//blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 25 Nov 2015 16:18:59 -0600</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2015 16:18:59 -0600</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Paint is up!</title>
+        <description>&lt;p&gt;Today we worked on painting. We finished one coat on the ends and the bottom portion of the hoops. Painting the plywood protects it from the elements while painting the hoops protects against the covering plastic from becoming brittle due to direct contact with the PVC hoops.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/C6PYXOc.jpg&quot;&gt;&lt;img src=&quot;http://i.imgur.com/C6PYXOcl.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We also started digging the trenches for the fish reservoirs. The goals is to dig them five feet deep which is going to take some time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/Hy0a0Ki.jpg&quot;&gt;&lt;img src=&quot;http://i.imgur.com/Hy0a0Kil.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Nov 2015 00:00:00 -0600</pubDate>
+        <link>elzahomestead.com/blog//blog/2015/11/paint</link>
+        <guid isPermaLink="true">elzahomestead.com/blog//blog/2015/11/paint</guid>
+        
+        <category>greenhouse</category>
+        
+        <category>progress pics</category>
+        
+        
+        <category>aquaponics</category>
+        
+      </item>
+    
+      <item>
+        <title>Youtube Test</title>
+        <description>&lt;p&gt;So here we can write some stuff. This is a body of text, sort of. &lt;/p&gt;
+
+&lt;h5&gt;Twitch Installs Arch Linux&lt;/h5&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MgCXCQ4rxLw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;And that is a video. Time for a line break.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;And that&amp;#39;s all folks!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Nov 2015 00:00:00 -0600</pubDate>
+        <link>elzahomestead.com/blog//blog/2015/11/youtube</link>
+        <guid isPermaLink="true">elzahomestead.com/blog//blog/2015/11/youtube</guid>
+        
+        <category>youtube</category>
+        
+        <category>embed</category>
+        
+        
+        <category>test</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Oct 2015 08:22:40 -0500</pubDate>
+        <link>elzahomestead.com/blog//blog/2015/10/welcome-to-jekyll</link>
+        <guid isPermaLink="true">elzahomestead.com/blog//blog/2015/10/welcome-to-jekyll</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>This is a Test Post</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque mollis justo sit amet fringilla hendrerit. Etiam luctus tortor a dapibus commodo. Ut viverra tortor augue. Duis sit amet hendrerit turpis. Nullam ultrices elit et nibh viverra, in eleifend nulla suscipit. Donec turpis erat, facilisis a sapien in, faucibus imperdiet erat. Nullam semper efficitur tellus eu ultricies. Etiam tempus at arcu id convallis.&lt;/p&gt;
+
+&lt;p&gt;Sed ac eleifend est. Nam faucibus efficitur posuere. Quisque non posuere magna. Cras sem enim, suscipit nec ligula vitae, rutrum condimentum elit. Fusce at libero dapibus, dictum lectus vitae, facilisis purus. Proin dictum nulla vel sem tincidunt, eget ultrices metus sagittis. Cras tempus lacinia turpis, nec imperdiet sem vestibulum ut. In rutrum sapien ut sapien finibus ullamcorper. Phasellus venenatis ac dolor at finibus. Ut nec massa sollicitudin, iaculis sem id, mattis odio. Phasellus sagittis sodales elementum. Nullam quis blandit purus. Pellentesque quis tincidunt arcu. Mauris sodales libero non condimentum auctor. Aenean at congue lacus.&lt;/p&gt;
+
+&lt;p&gt;Praesent nisi leo, lacinia nec libero vel, porta lacinia magna. In in rhoncus nibh. Cras vel velit nulla. Cras faucibus ligula quis enim cursus, in tincidunt ex convallis. Proin rutrum nisi et lorem tincidunt fringilla. Maecenas egestas pulvinar ex ac viverra. Donec lobortis varius justo sed vehicula. Nulla at est eu mauris cursus pellentesque. Vivamus sit amet sapien lacus. Nunc vehicula felis nunc, vitae vulputate erat placerat iaculis. Fusce dictum tellus id efficitur consequat. Fusce dapibus vestibulum mi. Proin ultrices, sem sed gravida suscipit, lectus odio porttitor nisi, sagittis rhoncus lacus nunc cursus mauris. Suspendisse semper risus egestas eros gravida, quis bibendum nibh ultricies. Nullam dictum justo velit, non vehicula quam condimentum vitae.&lt;/p&gt;
+
+&lt;p&gt;Vivamus faucibus lorem vel vestibulum vestibulum. Nunc vehicula odio dapibus tincidunt tincidunt. Suspendisse potenti. Aliquam venenatis maximus nulla, eget sagittis nunc congue ut. Duis eget vulputate eros, eu ullamcorper nisi. Vivamus bibendum consequat nunc vel ornare. Fusce varius, magna sit amet luctus imperdiet, odio tortor vestibulum felis, eget tincidunt ligula felis porta nulla. Nulla leo ligula, tempus sed commodo pulvinar, blandit a tortor. Aenean nec faucibus sem. Vivamus nec diam scelerisque turpis tristique interdum et pulvinar eros. Phasellus bibendum elit quis vehicula rutrum. Donec maximus lacinia sodales. Ut quis vehicula est. Pellentesque egestas mi metus, sit amet malesuada augue elementum pellentesque. Sed a neque placerat, mattis nisl nec, mattis dolor.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse non tortor mi. Praesent sit amet ante tristique, aliquet ligula id, suscipit enim. Cras tristique dui a enim tincidunt luctus. Vivamus nec sem ac elit dictum maximus. Phasellus tempor nisl condimentum purus scelerisque porttitor. Donec convallis eget neque sit amet placerat. Nullam leo tortor, efficitur in turpis vitae, blandit aliquam nisi. Nulla nec metus enim.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Oct 2015 08:22:40 -0500</pubDate>
+        <link>elzahomestead.com/blog//blog/2015/10/Test</link>
+        <guid isPermaLink="true">elzahomestead.com/blog//blog/2015/10/Test</guid>
+        
+        <category>test</category>
+        
+        <category>lorum</category>
+        
+        <category>ipsom</category>
+        
+        
+        <category>test</category>
+        
+      </item>
+    
+  </channel>
+</rss>

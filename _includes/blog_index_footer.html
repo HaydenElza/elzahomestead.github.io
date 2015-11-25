@@ -1,0 +1,63 @@
+<footer class="page-footer blue-grey darken-4">
+	<div class="container">
+		<div class="row">
+			<div class="col l6 s12">
+				<h5 class="white-text">{{ site.title }}</h5>
+				<p class="grey-text text-lighten-4">{{ site.description }}</p>
+			</div>
+			<div class="col l4 offset-l2 s12">
+				<h5 class="white-text">Contact</h5>
+				<div class="row">
+					<form action="mailto:jared@elzahomestead.com" enctype="text/plain" method="post">
+						<div class="input-field col s12">
+							<input name="Name" id="fname" type="text" class="validate white-text">
+							<label for="name">Name</label>
+						</div>
+						<div class="input-field col s12">
+							<input name="Email" id="email" type="email" class="validate white-text">
+							<label for="email" data-error="wrong" data-success="right">Email</label>
+						</div>
+						<div class="input-field col s12">
+							<textarea name="Message" id="textarea" class="materialize-textarea white-text"></textarea>
+							<label for="textarea">Message</label>
+						</div>
+						<button class="btn waves-effect waves-light green lighten-1 right" type="submit">Submit
+							<i class="material-icons right">send</i>
+						</button>
+					</form>
+				</div>
+			</div>
+			<!--<div class="col l4 offset-l2 s12">
+				<h5 class="white-text">Links</h5>
+				<ul>
+					<li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
+					<li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
+					<li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
+					<li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
+				</ul>
+			</div>-->
+		</div>
+	</div>
+	<div class="footer-copyright">
+		<div class="container center-align">
+		© Copyright 2015 Elza Homestead
+		</div>
+	</div>
+</footer>
+
+<!-- Import js for materialize -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/js/materialize.min.js"></script>
+
+<script type="text/javascript">
+	// Init side navigation bar
+	$(".button-collapse").sideNav();
+
+	// Init parallax
+	$(document).ready(function(){
+		$('.parallax').parallax();
+	});
+
+	// Staggered posts
+	Materialize.showStaggeredList("#staggered-posts")
+</script>
