@@ -10,8 +10,4 @@ Here you will find weekly listings of what we have available. Orders can be plac
 
 ##### Weekly Listing:
 
-Red Russian- $3/head
-
-Butternut- $3/head
-
-Iceberg- $3/head
+(coming soon)
