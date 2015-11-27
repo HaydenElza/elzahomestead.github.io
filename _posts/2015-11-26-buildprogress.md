@@ -14,5 +14,7 @@ tags:
 
 [![](http://imgur.com/mZW8nldl.jpg)](http://imgur.com/mZW8nld.jpg)
 
+[![](http://i.imgur.com/C6PYXOcl.jpg)](http://i.imgur.com/C6PYXOc.jpg)
+
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/x8dlASt43gM" frameborder="0" allowfullscreen></iframe></div>
 
