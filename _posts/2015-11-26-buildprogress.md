@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Build Progress"
+title:  "Greenhouse Build Progress"
 date:   2015-11-26
 categories: greenhouse
 author: Jared Elza
@@ -10,7 +10,6 @@ tags:
 - progress
 ---
 
-##### Greenhouse Build Progress
 
 [![](http://imgur.com/mZW8nldl.jpg)](http://imgur.com/mZW8nld.jpg)
 
