@@ -13,13 +13,13 @@ tags:
 
 [![](http://imgur.com/mZW8nldl.jpg)](http://imgur.com/mZW8nld.jpg)
 
-The base staked into place nicely level and square
+The base staked into place, nicely leveled and square
 
 <br>
 
 [![](http://i.imgur.com/2tJadGN.jpg)](http://i.imgur.com/2tJadGN.jpg)
 
-The PVC hoops are up! The arches consist of 4- 40' lengths of 1.5" PVC electrical conduit glued together. Each arched is secured by driving 2' lengths of 2" PVC in to the ground inside of the base boards. Once the arches were up we drilled a hole through the base board and both pipes and fastened them securely using carraige bolts.
+The PVC hoops are up! The arches consist of 4- 10' lengths of 1.5" PVC electrical conduit glued together. Each arched is secured by driving 2' lengths of 2" PVC in to the ground inside of the base boards. Once the arches were up we drilled a hole through the base board and both pipes and fastened them securely using carraige bolts.
 
 <br>
 
