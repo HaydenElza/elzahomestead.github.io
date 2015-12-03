@@ -1,3 +1,3 @@
-# blog
+#### Visit at:
 
-http://elzaaquaponics.github.io/blog/
+[elzahomestead.com](http://elzahomestead.com)
