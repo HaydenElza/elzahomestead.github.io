@@ -12,8 +12,6 @@ tags:
 
 [![](http://i.imgur.com/YcwP2tZ.jpg)](http://i.imgur.com/YcwP2tZ.jpg)
 
-<br><br>
-
 It's hard to believe it has been over a month since my last update! Between the holiday season and all the progress made time has gone 
 fast. 
 Here is a run down of the progress with pictures:
