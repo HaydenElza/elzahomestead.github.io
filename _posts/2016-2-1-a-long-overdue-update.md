@@ -47,8 +47,7 @@ It turned out really nice and wastes little heat.
 
 <br>
 
-When the bottom barrel is at 400*f the chimney pipe is at 100*f. 
-That is alot of heat being put into the greenhouse. 
+When the bottom barrel is at 400f the chimney pipe is at 100f. 
 
 [![](http://i.imgur.com/EgJ5n0O.jpg)](http://i.imgur.com/EgJ5n0O.jpg)
 
