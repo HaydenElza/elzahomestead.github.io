@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A long overdue update!"
+title:  "A long overdue update"
 date:   2016-2-1
 categories:
 - greenhouse
