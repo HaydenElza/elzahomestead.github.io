@@ -1,13 +1,22 @@
 ---
 layout: blog_index
 ---
+<style>
+	#sidbar-padding {
+		display: none;
+	}
+</style>
+
 <div class="container">
+	<!--<div class="card hide-on-medium-and-up blue-grey darken-4" style="margin-top:0.79rem;">
+		<p style="text-align: center;"><a href="/">Home</a>  •  <a href="/about">About</a>  •  <a href="/order">Weekly Orders</a></p>
+	</div>-->
 	<div class="row">
-		<div class="col s12 card-panel" style="margin-top: 50px;padding-top:0;">
-			<div class="card hide-on-small-only" style="margin-top:0.79rem;">
-				<div class="card-image">
+		<div class="col s12 card-panel blue-grey darken-4" style="margin-top: 50px;padding-top:0;">
+			<div class="card hide-on-small-only blue-grey darken-4" style="margin-top:0.79rem;">
+				<div id="banner" class="card-image">
 					<img src="assets/img/aquaponics.jpg" />
-					<span class="card-panel card-title black-text lora-serif" style="margin-left:1rem;">Elza Homestead</span>
+					<!--<span class="card-panel card-title black-text lora-serif" style="margin-left:1rem;">Elza Homestead</span>-->
 				</div>
 			</div>
 			<!--<h3 class="hide-on-med-and-up lora-serif center-align">Elza Homestead</h3>-->
@@ -17,9 +26,9 @@ layout: blog_index
 						{% for post in site.posts %}
 							<li style="margin-bottom: 25px;">
 								<h4 style="margin-bottom: 5px;">
-									<a class="grey-text text-darken-4" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+									<a class="light-green-text text-lighten-3" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 								</h4>
-								<span class="post-meta grey-text text-darken-3" style="">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %}  —  {{ post.author }}{% endif %}</span>
+								<span class="post-meta white-text" style="">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %}  —  {{ post.author }}{% endif %}</span>
 								<br>
 								{{ post.content | truncatewords:75}}<br>
 								<p><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
@@ -28,45 +37,7 @@ layout: blog_index
 						{% endfor %}
 					</ul>
 				</div>
-				<div class="col s12 m10 l3 offset-m1">
-					<h6 class="bold" style="margin-top:1rem;">Categories:<h6>
-					<ul class="collapsible" data-collapsible="accordion">
-						{% for category in site.categories %}
-						<li>
-							<div class="collapsible-header" style="text-transform: capitalize;">{{ category | first }}</div>
-							<div class="collapsible-body">
-								{% for posts in category %}
-									{% for post in posts %}
-										<ul><li class="truncate" style="padding-left:15px;padding-right:15px;"><p style="padding:0;"><a href="{{ post.url }}">{{ post.title }}</a></p></li></ul>
-									{% endfor %}
-								{% endfor %}
-							</div>
-						</li>
-						{% endfor %}
-					</ul>
-					<br>
-					<h6 class="bold">Archive</h6>
-						<ul>
-							{% for post in site.posts %}
-								{% unless post.next %}
-									{{ post.date | date: '%Y %b' }}
-								{% else %}
-									{% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
-									{% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
-									{% if year != nyear %}
-										{{ post.date | date: '%Y %b' }}
-									{% endif %}
-								{% endunless %}
-								<li><p><a href="{{ post.url }}" class="truncate">{{ post.title }}</a></p></li>
-							{% endfor %}
-						</ul>
-					<br>
-					<h6 class="bold">Follow Blog:<h6>
-					<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-					<br>
-					<h6 class="bold">Contact Info:<h6>
-					jared@elzahomestead.com
-				</div>
+				{% include sidebar.html %}
 			</div>
 		</div>
 	</div>

@@ -6,6 +6,7 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
 	margin-bottom: $spacing-unit / 2;
+	color: white;
 }
 
 
@@ -131,7 +132,7 @@ pre {
 
 /* Links */
 p a {
-	color: #c62828 !important;
+	color: #c5e1a5 !important;
 	
 	&:hover {
 	text-decoration: underline;
@@ -142,4 +143,26 @@ p a {
 img {
 	margin-left: auto;
 	margin-right: auto;
+}
+p img {
+	border-radius: 2px;
+}
+
+/* Chips */
+.chip {
+	background: none !important;
+	border: solid white 1px;
+	color: white !important;
+	font-size: 0.75em !important;
+	font-weight: normal !important;
+}
+
+.tags {
+	margin-left: 0.80em;
+	font-size: 0.75em;
+}
+
+/* Banner */
+#banner {
+	max-height: 324px;
 }
