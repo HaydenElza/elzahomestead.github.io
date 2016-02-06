@@ -1,0 +1,40 @@
+<div class="col s12 m10 l3 offset-m1">
+	<div id="sidbar-padding" class="hide-on-med-and-down"><br><br><br><br><br></div>
+	<h6 class="bold" style="margin-top:1rem;">Categories:<h6>
+	<ul class="collapsible" data-collapsible="accordion">
+		{% for category in site.categories %}
+		<li>
+			<div class="collapsible-header blue-grey darken-4" style="text-transform: capitalize;">{{ category | first }}</div>
+			<div class="collapsible-body blue-grey darken-4">
+				{% for posts in category %}
+					{% for post in posts %}
+						<ul><li style="padding-left:15px;padding-right:15px;"><p style="padding:0;"><a class="truncate" href="{{ post.url }}">{{ post.title }}</a></p></li></ul>
+					{% endfor %}
+				{% endfor %}
+			</div>
+		</li>
+		{% endfor %}
+	</ul>
+	<br>
+	<h6 class="bold">Archive</h6>
+		<ul>
+			{% for post in site.posts %}
+				{% unless post.next %}
+					{{ post.date | date: '%Y %b' }}
+				{% else %}
+					{% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
+					{% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
+					{% if year != nyear %}
+						{{ post.date | date: '%Y %b' }}
+					{% endif %}
+				{% endunless %}
+				<li><p><a href="{{ post.url }}" class="truncate">{{ post.title }}</a></p></li>
+			{% endfor %}
+		</ul>
+	<br>
+	<h6 class="bold">Follow Blog:<h6>
+	<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+	<br>
+	<h6 class="bold">Contact Info:<h6>
+	jared@elzahomestead.com
+</div>

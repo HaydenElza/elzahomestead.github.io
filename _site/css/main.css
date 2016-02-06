@@ -5,7 +5,8 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+  color: white; }
 
 /**
  * Images
@@ -100,16 +101,33 @@ pre {
 
 /* Links */
 p a {
-  color: #c62828 !important; }
+  color: #c5e1a5 !important; }
   p a:hover {
     text-decoration: underline; }
-  p a:visited {
-    color: #ab47bc !important; }
 
 /* Images */
 img {
   margin-left: auto;
   margin-right: auto; }
+
+p img {
+  border-radius: 2px; }
+
+/* Chips */
+.chip {
+  background: none !important;
+  border: solid white 1px;
+  color: white !important;
+  font-size: 0.75em !important;
+  font-weight: normal !important; }
+
+.tags {
+  margin-left: 0.80em;
+  font-size: 0.75em; }
+
+/* Banner */
+#banner {
+  max-height: 324px; }
 
 /**
  * Syntax highlighting styles
