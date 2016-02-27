@@ -9,7 +9,7 @@ layout: default
 					<h3 class="post-title green-text text-lighten-3" style="padding-top: 25px;">{{ page.title }}</h3>
 					<div class="divider"></div>
 
-					<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %}  •  {{ page.author }}{% endif %}{% if page.meta %}  •  {{ page.meta }}{% endif %}{% if page.tags %}    {% for tag in page.tags %}<span class="tags light-green-text text-lighten-3">{{ tag }}</span>{% endfor %}{% endif %}</p>
+					<p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %}  •  {{ page.author }}{% endif %}{% if page.meta %}  •  {{ page.meta }}{% endif %}{% if page.tags %}    {% for tag in page.tags %}<span class="tags green-text text-lighten-3">{{ tag }}</span>{% endfor %}{% endif %}</p>
 
 					<article class="post-content">
 						{{ content }}
