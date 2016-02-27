@@ -1,6 +1,7 @@
 ---
 layout: blog_index
 ---
+
 <style>
 	#sidbar-padding {
 		display: none;
@@ -8,25 +9,20 @@ layout: blog_index
 </style>
 
 <div class="container">
-	<!--<div class="card hide-on-medium-and-up blue-grey darken-4" style="margin-top:0.79rem;">
-		<p style="text-align: center;"><a href="/">Home</a>  •  <a href="/about">About</a>  •  <a href="/order">Weekly Orders</a></p>
-	</div>-->
 	<div class="row">
 		<div class="col s12 card-panel blue-grey darken-4" style="margin-top: 50px;padding-top:0;">
 			<div class="card hide-on-small-only blue-grey darken-4" style="margin-top:0.79rem;">
 				<div id="banner" class="card-image">
 					<img src="assets/img/greenhouse1.jpg" />
-					<!--<span class="card-panel card-title black-text lora-serif" style="margin-left:1rem;">Elza Homestead</span>-->
 				</div>
 			</div>
-			<!--<h3 class="hide-on-med-and-up lora-serif center-align">Elza Homestead</h3>-->
 			<div class="row">
 				<div class="col s12 m10 l7 offset-m1 offset-l1">
 					<ul class="post-list">
 						{% for post in site.posts %}
 							<li style="margin-bottom: 25px;">
 								<h4 style="margin-bottom: 5px;">
-									<a class="light-green-text text-lighten-3" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+									<a class="green-text text-lighten-3" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 								</h4>
 								<span class="post-meta white-text" style="">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %}  —  {{ post.author }}{% endif %}</span>
 								<br>

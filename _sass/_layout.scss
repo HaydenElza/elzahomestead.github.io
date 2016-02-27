@@ -1,0 +1,17 @@
+/* Make footer stick to bottom */
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
+
+/* Body Background */
+body {
+	/*background-color: #A5D6A7;*/
+	background-color: #8BBB8B;
+
+}

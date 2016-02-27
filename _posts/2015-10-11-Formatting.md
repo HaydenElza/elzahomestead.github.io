@@ -10,11 +10,11 @@ published: false
 ---
 
 ~~~
-# Heading 1  
-## Heading 2  
-### Heading 3  
-#### Heading 4  
-##### Heading 5  
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
 ###### Heading 6
 ~~~
 
@@ -33,18 +33,18 @@ published: false
 <br><br><br>
 
 ~~~
-*Italics*  
-**Bold**  
-~~Strikethrough~~  
-Super^(script)  
-_Underline_
+_Italics_
+**Bold**
+<span><strike>Strikethrough</strike></span>
+Super <sup>script</sup>
+<u>Underline</u>
 ~~~
 
-*Italics*  
+_Italics_  
 **Bold**  
-~~Strikethrough~~  
-Super^(script)  
-_Underline_
+<span><strike>Strikethrough</strike></span>  
+Super <sup>script</sup>  
+<u>Underline</u>
 
 <br><br><br>
 
@@ -104,6 +104,7 @@ Numbered List:
 >Here's a quote.
 
 >Another paragraph in the same quote.
+>
 >>A nested quote.
 
 >Back to a single quote.
@@ -114,6 +115,7 @@ And finally some unquoted text.
 >Here's a quote.
 
 >Another paragraph in the same quote.
+>
 >>A nested quote.
 
 >Back to a single quote.
@@ -130,7 +132,7 @@ a|b|c
 d|e|f
 ~~~
 
-some|header|labels
+Some|Header|Labels
 :---|:--:|---:
 Left-justified|center-justified|right-justified
 a|b|c

@@ -11,7 +11,9 @@ url: "localhost:4000"
 url: "elzahomestead.com" # the base hostname & protocol for your site
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: ["tables","autolink","strikethrough","fenced_code_blocks","superscript","underline"]
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
 permalink: /:year/:month/:title
