@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Greenhouse Build Progress"
+title:  "Greenhouse Build Time Lapse"
 date:   2015-11-26
 categories: greenhouse
 author: Jared Elza
 tags: 
 - greenhouse
 - build
-- progress
+- time lapse
 ---
 
 
@@ -59,13 +59,19 @@ Nice angle showing the end walls framed out, all bracing in place, perlins insta
 
 <br>
 
+[![](http://i.imgur.com/UV389Xm.jpg)](http://i.imgur.com/UV389Xm.jpg)
+<br>
 [![](http://i.imgur.com/jv9lIjNh.jpg)](http://i.imgur.com/jv9lIjN.jpg)
 
 Plywood sides walls in place, just need the temps to cooperate so the paint can be laid down. 
 
 <br>
 
+[![](http://i.imgur.com/UV389Xm.jpg)](http://i.imgur.com/UV389Xm.jpg)
+<br>
 [![](http://i.imgur.com/C6PYXOch.jpg)](http://i.imgur.com/C6PYXOc.jpg)
+<br>
+[![](http://i.imgur.com/O8huvT0.jpg)](http://i.imgur.com/O8huvT0.jpg)
 
 A good portion of the painting is done! Just the face of the hoops left to paint, this is done to protect the plastic greenhouse film from degradation due to off gassing from the PVC. 
 
