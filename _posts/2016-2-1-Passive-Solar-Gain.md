@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Oh, what the sun can do..."
+title:  Passive Solar Gain
 date:   2016-2-1
 categories:
-- greenhouse
+- Greenhouse
 author: Jared Elza
 tags: 
-- greenhouse
-- progress pics
-- passive solar 
+- Greenhouse
+- Passive Solar Gain
 ---
 
+"Oh, what the sun can do..."
 Check out the temp on left! You can really only make out the eight but it was 83.3 degrees with no heat other than the sun. 
 
 <br>
