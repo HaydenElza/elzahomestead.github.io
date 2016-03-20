@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Greenhouse Build Time Lapse"
+title:  "Greenhouse Structure Start to Finish"
 date:   2015-11-26
 categories: greenhouse
 author: Jared Elza
 tags: 
 - greenhouse
-- build
-- time lapse
+- structure
 ---
 
 
