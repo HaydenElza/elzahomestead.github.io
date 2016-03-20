@@ -4,12 +4,13 @@ title:  "SPIN Farming Plot"
 date:   2016-3-19
 categories:
 - SPIN Farming
+- TLO Soil Grown
 author: Jared Elza
 tags: 
 - SPIN Farming
 - Soil Grown
 - Plot
-- Soil Grown
+- TLO
 ---
 
 SPIN Farming = Small Plot INtensive
