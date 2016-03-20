@@ -9,6 +9,7 @@ author: Jared Elza
 tags: 
 - SPIN Farming
 - Soil Grown
+- Plot
 ---
 
 SPIN Farming = Small Plot INtensive
