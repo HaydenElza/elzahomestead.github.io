@@ -2,11 +2,11 @@
 layout: post
 title:  "Greenhouse Structure Start to Finish"
 date:   2015-11-26
-categories: greenhouse
+categories: Greenhouse
 author: Jared Elza
 tags: 
-- greenhouse
-- structure
+- Greenhouse
+- Structure
 ---
 
 
