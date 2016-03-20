@@ -4,12 +4,12 @@ title:  "SPIN Farming Plot"
 date:   2016-3-19
 categories:
 - SPIN Farming
-- Soil Grown
 author: Jared Elza
 tags: 
 - SPIN Farming
 - Soil Grown
 - Plot
+- Soil Grown
 ---
 
 SPIN Farming = Small Plot INtensive
