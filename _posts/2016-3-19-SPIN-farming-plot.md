@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "SPIN farming plot"
+title:  "SPIN Farming Plot"
 date:   2016-3-19
 categories:
-- SPIN farming
-- Outdoor
-- Soil
+- SPIN Farming
+- Soil Grown
 author: Jared Elza
 tags: 
-- SPIN farming
+- SPIN Farming
+- Soil Grown
 ---
 
-SPIN farming = Small Plot Intensive
+SPIN Farming = Small Plot INtensive
 <br>
 Just a sneek peak of our 2,600+sqft outdoor SPIN farming plot. More details to come with an update to the post. 
 [![](http://i.imgur.com/3p2DN6n.jpg)](http://i.imgur.com/3p2DN6n.jpg)
