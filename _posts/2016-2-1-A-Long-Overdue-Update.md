@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "A long overdue update"
+title:  "A Long Overdue Update"
 date:   2016-2-1
 categories:
-- greenhouse
+- Greenhouse
 author: Jared Elza
 tags: 
-- greenhouse
-- progress pics
+- Greenhouse
+- Inflation Blower
+- Double Barrel Wood Stove
+- Snow Broom
 ---
 
 [![](http://i.imgur.com/YcwP2tZ.jpg)](http://i.imgur.com/YcwP2tZ.jpg)
