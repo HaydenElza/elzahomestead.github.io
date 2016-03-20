@@ -3,13 +3,11 @@ layout: post
 title:  "Thermax and Luminance"
 date:   2015-12-11
 categories:
-- greenhouse
-- film
+- Greenhouse
 author: Jared Elza
 tags: 
-- greenhouse
-- progress pics
-- film
+- Greenhouse
+- Film
 ---
 
 We installed two layers of greenhouse film. The bottom layer is Thermax 6mil film with the anti-condensate coated side facing down, 
