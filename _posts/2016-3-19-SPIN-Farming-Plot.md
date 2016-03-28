@@ -23,8 +23,6 @@ UPDATE 3/28/16
 <br>
 This will serve as a seed starting greenhouse and our processing area for this site. All that needs to be done is add the plastic and the structure will be ready. Next we will build out the processing tables and equipment inside. 
 <br>
-[![](http://i.imgur.com/Mh9OYHt.jpg)](http://i.imgur.com/Mh9OYHt.jpg)
-<br>
 [![](http://i.imgur.com/NvQBlqD.jpg)](http://i.imgur.com/NvQBlqD.jpg)
 <br>
 [![](http://i.imgur.com/7gKdVHC.jpg)](http://i.imgur.com/7gKdVHC.jpg)
@@ -38,5 +36,7 @@ This will serve as a seed starting greenhouse and our processing area for this s
 [![](http://i.imgur.com/cVUEbx2.jpg)](http://i.imgur.com/cVUEbx2.jpg)
 <br>
 [![](http://i.imgur.com/p4a1DuW.jpg)](http://i.imgur.com/p4a1DuW.jpg)
+<br>
+[![](http://i.imgur.com/Mh9OYHt.jpg)](http://i.imgur.com/Mh9OYHt.jpg)
 <br>
 
