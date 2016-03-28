@@ -21,7 +21,7 @@ Just a sneek peak of our 2,600+sqft outdoor SPIN farming plot. More details and 
 <br>
 UPDATE 3/28/16
 <br>
-This will serve as a seed starting greenhouse and our processing area for this site. 
+This will serve as a seed starting greenhouse and our processing area for this site. All that needs to be done is add the plastic and the structure will be ready. Next we will build out the processing tables and equipment inside. 
 <br>
 [![](http://i.imgur.com/Mh9OYHt.jpg)](http://i.imgur.com/Mh9OYHt.jpg)
 <br>
@@ -40,4 +40,3 @@ This will serve as a seed starting greenhouse and our processing area for this s
 [![](http://i.imgur.com/p4a1DuW.jpg)](http://i.imgur.com/p4a1DuW.jpg)
 <br>
 
-All that needs to be done is add the plastic and the structure will be ready. Next we will build out the processing tables and equipment inside. 
