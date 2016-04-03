@@ -21,7 +21,7 @@ Just a sneek peak of our 2,600+sqft outdoor SPIN farming plot. More details and 
 <br>
 UPDATE 3/29/16 
 <br>
-We used reinforced poly film to cover the greenhouse/processing area. The film is not intended for greenhouse use but will serve it purpose. The reinforcment netting inside the poly actually diffuses the light while allowing ~80-90% light transmission, perfect for seed starting and young plants. Next we will build out the processing tables and equipment inside.
+We used reinforced poly film to cover the greenhouse/processing area. The film is not intended for greenhouse use but will serve the purpose. The reinforcment netting inside the poly actually diffuses the light while allowing ~80-90% light transmission, perfect for seed starting and young plants. Next we will build out the processing tables and equipment inside.
 <br>
 [![](http://i.imgur.com/1Q0pFMy.jpg)](http://i.imgur.com/1Q0pFMy.jpg)
 <br>
