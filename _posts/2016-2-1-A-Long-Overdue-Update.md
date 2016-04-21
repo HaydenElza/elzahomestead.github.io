@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Long Overdue Update"
+title:  "Around The Greenhouse"
 date:   2016-2-1
 categories:
 - Greenhouse
@@ -11,6 +11,8 @@ tags:
 - Double Barrel Wood Stove
 - Snow Broom
 ---
+Check back for updates to this post. 
+<br>
 
 [![](http://i.imgur.com/YcwP2tZ.jpg)](http://i.imgur.com/YcwP2tZ.jpg)
 
