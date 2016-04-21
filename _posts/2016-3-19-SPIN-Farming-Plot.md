@@ -12,10 +12,13 @@ tags:
 - Plot
 - TLO
 ---
+Check back for updates to this post.
+
+<br>
 
 SPIN Farming = Small Plot INtensive
 <br>
-Just a sneek peak of our 2,600+sqft outdoor SPIN farming plot. More details and updates to follow below.
+Just a sneek peak of our 2,600+sqft outdoor SPIN farming plot.
 [![](http://i.imgur.com/3p2DN6n.jpg)](http://i.imgur.com/3p2DN6n.jpg)
 
 <br>
