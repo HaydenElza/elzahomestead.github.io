@@ -12,8 +12,10 @@ tags:
 - Snow Broom
 ---
 Check back for updates to this post. 
+
 <br>
 
+ORIGINAL POST 2/1/16
 [![](http://i.imgur.com/YcwP2tZ.jpg)](http://i.imgur.com/YcwP2tZ.jpg)
 
 It's hard to believe it has been over a month since my last update! Between the holiday season and all the progress made time has gone 
