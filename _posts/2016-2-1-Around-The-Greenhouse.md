@@ -17,7 +17,8 @@ Check back for updates to this post.
 
 UPDATE 4/21/16
 <br>
-Commentary to follow, image dump for now.
+The 28'x8'x8" Double wide raft bed is built and ready for a duraskrim liner. This bed will hold over 500 head of lettuce :)
+More commentary to follow, image dump for now.
 [![](http://i.imgur.com/qWzEUPzh.jpg)](http://i.imgur.com/qWzEUPz.jpg)
 [![](http://i.imgur.com/ux8JBbrh.jpg)](http://i.imgur.com/ux8JBbr.jpg)
 [![](http://i.imgur.com/G0sLfgWh.jpg)](http://i.imgur.com/G0sLfgW.jpg)
