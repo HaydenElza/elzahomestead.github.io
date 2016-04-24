@@ -10,6 +10,7 @@ tags:
 - Inflation Blower
 - Double Barrel Wood Stove
 - Snow Broom
+- Rain Catchment
 ---
 Check back for updates to this post. 
 
@@ -20,18 +21,6 @@ UPDATE 4/24/16
 We painted the inside of the end walls with white paint to reflect the light and prevent any moisture issues due to temperature differences inside and out. 
 
 [![](http://i.imgur.com/CfeYi9uh.jpg)](http://i.imgur.com/CfeYi9u.jpg)
-
-The aquaponics system may not be running and fear of frost is keeping us from planting outside but we can still get growing. I mixed up some soil it's just a basic high nutrient value soil mix cut in half with coco coir to reduce nutrient value for lighter feeding crops. We have broccoli, head lettuce, salad greens, and carrots. 
-
-[![](http://i.imgur.com/HjvPX9Dh.jpg)](http://i.imgur.com/HjvPX9D.jpg)
-
-[![](http://i.imgur.com/9sOAw2nh.jpg)](http://i.imgur.com/9sOAw2n.jpg)
-
-[![](http://i.imgur.com/XCXiBPeh.jpg)](http://i.imgur.com/XCXiBPe.jpg)
-
-[![](http://i.imgur.com/wtBotOGh.jpg)](http://i.imgur.com/wtBotOG.jpg)
-
-[![](http://i.imgur.com/ZIU534Eh.jpg)](http://i.imgur.com/ZIU534E.jpg)
 
 Finally got around to starting our rain water catchment system. It is only collecting from the north half of our house's roof until I can find some more rain gutter. The plan is to collect rain from both sides of the house roof and the greenhouse. So far the system is composed of a 275 gal food grade bulk tank and some pvc pipe to route water to the tank. 
 
