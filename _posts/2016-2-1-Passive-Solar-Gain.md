@@ -10,9 +10,7 @@ tags:
 - Passive Solar Gain
 ---
 
-Oh, what the sun can do... Check out the temp on left! You can really only make out the eight but it was 83.3 degrees with no heat source other than the sun on a ~30*F day.
-
-<br>
+Oh, what the sun can do... Check out the temp on left! You can really only make out the eight but it was 83.3 degrees with no heat source other than the sun on a ~30*F day. :)
 
 [![](http://i.imgur.com/2xwe7fdh.jpg)](http://i.imgur.com/2xwe7fd.jpg)
 
