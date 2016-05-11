@@ -9,7 +9,6 @@ tags:
 - Greenhouse
 - Film
 ---
-
 We installed two layers of greenhouse film. The bottom layer is Thermax 6mil film with the anti-condensate coated side facing down, and the top layer is Luminance 6mil film. The films will be inflated to help with wind and snow load strength, along with providing a layer of insulation. We are almost done building the greenhouse structure! My next post will be picutres of the final result, I just need to install an access door. After the greenhouse structure is completed it's time to shift gears into constructing the aquaponics systems. :)
 
 [![](http://i.imgur.com/AfKaGrGh.jpg)](http://i.imgur.com/AfKaGrG.jpg)
