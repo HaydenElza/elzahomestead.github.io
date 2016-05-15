@@ -2,6 +2,7 @@
 layout: post
 title:  Passive Solar Gain
 date:   2016-2-1
+preview: http://i.imgur.com/2xwe7fdh.jpg
 categories:
 - Greenhouse
 author: Jared Elza
