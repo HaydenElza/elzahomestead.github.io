@@ -26,7 +26,7 @@ Finally got around to starting our rain water catchment system. It is only colle
 
 [![](http://i.imgur.com/ske4ySEh.jpg)](http://i.imgur.com/ske4ySE.jpg)
 
-[![](http://i.imgur.com/cf2rZtT.jpg)](http://i.imgur.com/cf2rZtT.jpg)
+[![](http://i.imgur.com/cf2rZtTh.jpg)](http://i.imgur.com/cf2rZtT.jpg)
 
 [![](http://i.imgur.com/3EPkIPJh.jpg)](http://i.imgur.com/3EPkIPJ.jpg)
 
