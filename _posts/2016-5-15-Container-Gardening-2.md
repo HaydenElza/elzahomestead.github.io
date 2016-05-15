@@ -2,6 +2,7 @@
 layout: post
 title:  "Container Gardening - 2"
 date:   2016-5-15
+preview: "http://i.imgur.com/dG2Mf8Ph.jpg"
 categories:
 - Greenhouse
 - TLO Soil Grown

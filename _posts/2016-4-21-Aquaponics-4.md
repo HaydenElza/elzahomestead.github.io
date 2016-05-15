@@ -2,6 +2,7 @@
 layout: post
 title:  "Aquaponics - 4"
 date:   2016-4-21
+preview: "http://i.imgur.com/qWzEUPzh.jpg"
 categories:
 - Greenhouse
 - Aquaponics

@@ -2,6 +2,7 @@
 layout: post
 title:  "SPIN Farming Plot - 3"
 date:   2016-3-29
+preview: "http://i.imgur.com/1Q0pFMyh.jpg"
 categories:
 - SPIN Farming
 - TLO Soil Grown
@@ -15,18 +16,18 @@ tags:
 ---
 We used reinforced poly film to cover the greenhouse/processing area. The film is not intended for greenhouse use but will serve the purpose. The reinforcment netting inside the poly actually diffuses the light while allowing ~80-90% light transmission, perfect for seed starting and young plants. Next we will build out the processing tables and equipment inside.
 
-[![](http://i.imgur.com/1Q0pFMy.jpg)](http://i.imgur.com/1Q0pFMy.jpg)
+[![](http://i.imgur.com/1Q0pFMyh.jpg)](http://i.imgur.com/1Q0pFMy.jpg)
 
-[![](http://i.imgur.com/gbkoULP.jpg)](http://i.imgur.com/gbkoULP.jpg)
+[![](http://i.imgur.com/gbkoULPh.jpg)](http://i.imgur.com/gbkoULP.jpg)
 
-[![](http://i.imgur.com/qzPhcxT.jpg)](http://i.imgur.com/qzPhcxT.jpg)
+[![](http://i.imgur.com/qzPhcxTh.jpg)](http://i.imgur.com/qzPhcxT.jpg)
 
-[![](http://i.imgur.com/YTYWzSi.jpg)](http://i.imgur.com/YTYWzSi.jpg)
+[![](http://i.imgur.com/YTYWzSih.jpg)](http://i.imgur.com/YTYWzSi.jpg)
 
-[![](http://i.imgur.com/Zivrwff.jpg)](http://i.imgur.com/Zivrwff.jpg)
+[![](http://i.imgur.com/Zivrwffh.jpg)](http://i.imgur.com/Zivrwff.jpg)
 
-[![](http://i.imgur.com/ibrRsBy.jpg)](http://i.imgur.com/ibrRsBy.jpg)
+[![](http://i.imgur.com/ibrRsByh.jpg)](http://i.imgur.com/ibrRsBy.jpg)
 
-[![](http://i.imgur.com/UV8epsE.jpg)](http://i.imgur.com/UV8epsE.jpg)
+[![](http://i.imgur.com/UV8epsEh.jpg)](http://i.imgur.com/UV8epsE.jpg)
 
-[![](http://i.imgur.com/25PnzzF.jpg)](http://i.imgur.com/25PnzzF.jpg)
+[![](http://i.imgur.com/25PnzzFh.jpg)](http://i.imgur.com/25PnzzF.jpg)

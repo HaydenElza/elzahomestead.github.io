@@ -2,6 +2,7 @@
 layout: post
 title:  "SPIN Farming Plot - 2"
 date:   2016-3-28
+preview: "http://i.imgur.com/p4a1DuWh.jpg"
 categories:
 - SPIN Farming
 - TLO Soil Grown

@@ -57,15 +57,6 @@ figcaption {
 .bold {
   font-weight: bold; }
 
-/* Make footer stick to bottom */
-body {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column; }
-
-main {
-  flex: 1 0 auto; }
-
 /* Quotes */
 blockquote {
   border-left: 5px solid #c5e1a5 !important; }
@@ -75,7 +66,7 @@ pre,
 code {
   font-size: 15px;
   border-radius: 3px;
-  background-color: #e6ee9c; }
+  color: #688E68; }
 
 code {
   padding: 1px 5px; }
@@ -101,7 +92,7 @@ pre {
 
 /* Links */
 p a {
-  color: #c5e1a5 !important; }
+  color: #A5D6A7 !important; }
   p a:hover {
     text-decoration: underline; }
 
@@ -129,6 +120,44 @@ p img {
 /*#banner {
 	max-height: 324px;
 }*/
+/* Table */
+table {
+  background-color: white;
+  border-radius: 2px;
+  color: #263238; }
+
+tr td:first-child,
+tr th:first-child {
+  padding-left: 15px; }
+
+tr td:last-child,
+tr th:last-child {
+  padding-right: 15px; }
+
+/* Bold Formatting */
+b,
+strong {
+  font-weight: bold !important;
+  letter-spacing: 1px; }
+
+/* Paragraph 
+p {
+	letter-spacing: 0.02em;
+}*/
+/* Make footer stick to bottom */
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column; }
+
+main {
+  flex: 1 0 auto; }
+
+/* Body Background */
+body {
+  /*background-color: #A5D6A7;*/
+  background-color: #8BBB8B; }
+
 /**
  * Syntax highlighting styles
  */

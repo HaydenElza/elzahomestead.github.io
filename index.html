@@ -6,6 +6,19 @@ layout: blog_index
 	#sidbar-padding {
 		display: none;
 	}
+	.post-preview {
+		height: 30vw;
+		border-radius: 10px;
+	}
+	.post-preview-title {
+		padding: 2rem;
+		background: rgba(3, 76, 71, 0.9);
+		border-radius: 8px 8px 0 0;
+	}
+	.post-preview-title h4 {
+		margin: 0;
+		line-height: 2.8rem;
+	}
 </style>
 
 <div class="container">
@@ -17,18 +30,25 @@ layout: blog_index
 				</div>
 			</div>
 			<div class="row">
-				<div class="col s12 m10 l7 offset-m1 offset-l1">
+				<div class="col s12 l8">
 					<ul class="post-list">
-						{% for post in site.posts %}
+						{% for post in site.posts limit:7 %}
 							<li style="margin-bottom: 25px;">
-								<h4 style="margin-bottom: 5px;">
-									<a class="green-text text-lighten-3" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-								</h4>
-								<span class="post-meta white-text" style="">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %}  —  {{ post.author }}{% endif %}</span>
-								<br>
-								{{ post.content | truncatewords:75}}<br>
-								<p><a href="{{ post.url | prepend: site.baseurl }}">Read more...</a></p>
-								<div class="divider"></div>
+								{% if post.preview %}
+									<div class="post-preview" onclick="location.href='{{ post.url | prepend: site.baseurl }}'" style="background: url({{ post.preview }}) no-repeat center center;background-size: cover;">
+										<div class="post-preview-title">
+											<h4 style="margin-bottom: 5px;">
+												<a class="green-text text-lighten-3 truncate" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+											</h4>
+											<span class="post-meta white-text">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %}  —  {{ post.author }}{% endif %}</span>
+										</div>
+									</div>
+								{% else %}
+									<h4 style="margin-bottom: 5px;">
+										<a class="green-text text-lighten-3" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+									</h4>
+									<span class="post-meta white-text">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %}  —  {{ post.author }}{% endif %}</span>
+								{% endif %}
 							</li>
 						{% endfor %}
 					</ul>
