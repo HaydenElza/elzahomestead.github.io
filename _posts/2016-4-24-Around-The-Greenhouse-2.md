@@ -2,7 +2,7 @@
 layout: post
 title:  "Around The Greenhouse - 2"
 date:   2016-4-24
-preview: "http://i.imgur.com/CfeYi9uh.jpg"
+preview: http://i.imgur.com/ske4ySEh.jpg
 categories:
 - Greenhouse
 author: Jared Elza
