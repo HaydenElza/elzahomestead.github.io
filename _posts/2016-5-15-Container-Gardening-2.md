@@ -2,7 +2,7 @@
 layout: post
 title:  "Container Gardening - 2"
 date:   2016-5-15
-preview: "http://i.imgur.com/dG2Mf8Ph.jpg"
+preview: http://i.imgur.com/nBrxjvNh.jpg
 categories:
 - Greenhouse
 - TLO Soil Grown
@@ -27,7 +27,7 @@ pictures below are from about a week and half ago.
 
 [![](http://i.imgur.com/pgqEsoYh.jpg)](http://i.imgur.com/pgqEsoY.jpg)
 
-This second set of pictures are the most recent. Some of the mixed greens are almost ready for the first harvest! :)
+This second set of pictures below are the most recent. Some of the mixed greens are almost ready for the first harvest! :)
 
 [![](http://i.imgur.com/nBrxjvNh.jpg)](http://i.imgur.com/nBrxjvN.jpg)
 
