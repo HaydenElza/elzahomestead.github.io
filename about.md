@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-We are a family homestead based business specializing in local and sustainable food production. All of our produce is grown using natural and organic methods, we never use chemicals or synthetics of any kind! 
+We are a family homestead based business focused on sustainable food production. We use only natural and organic methods in everything we do. We believe in teaming up with nature while integrating new technologies. : ) 
 <br><br>
 Jared Elza
 <br>
