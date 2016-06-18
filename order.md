@@ -16,15 +16,15 @@ Call Jared: (920)215-9623
 
 CUSTOMER DIRECT SUBSCRIPTIONS
 
-Available for Subscriptions:
-*Speckled Pea Microgreens
-*Daikon Radish Microgreens
-*50/50 Mix (1/2 Pea, 1/2 Radish)
--8oz. Weekly pickup, 1 month(4 week) subscription = $56 
+Available for Subscriptions:											
+*Speckled Pea Microgreens												
+*Daikon Radish Microgreens												
+*50/50 Mix (1/2 Pea, 1/2 Radish)										
+-8oz. Weekly pickup, 1 month(4 week) subscription = $56					
 -4oz. Weekly pickup, 1 month(4 week) subscription = $32
  
 
-In the Future:  
+In the Future:															
 *Microgreens: Italian Large Leaf Basil & Triton Purple Radish
 *Artisan Salad Mixes 
 *Greens: Spinach, Kale, Arugula, Tatsoi, and more
