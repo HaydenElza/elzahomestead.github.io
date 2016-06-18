@@ -16,10 +16,10 @@ It has been a month now since the last update and much has changed. Most of the 
 
 <br>
 
-[![](http://i.imgur.com/TOri3Sw.jpg)](http://i.imgur.com/TOri3Sw.jpg)
+[![](http://i.imgur.com/TOri3Swh.jpg)](http://i.imgur.com/TOri3Sw.jpg)
 
-[![](http://i.imgur.com/vI2bE8l.jpg)](http://i.imgur.com/vI2bE8l.jpg)
+[![](http://i.imgur.com/vI2bE8lh.jpg)](http://i.imgur.com/vI2bE8l.jpg)
 
-[![](http://i.imgur.com/pWny3M6.jpg)](http://i.imgur.com/pWny3M6.jpg)
+[![](http://i.imgur.com/pWny3M6h.jpg)](http://i.imgur.com/pWny3M6.jpg)
 
-[![](http://i.imgur.com/ouPmeVU.jpg)](http://i.imgur.com/ouPmeVU.jpg)
+[![](http://i.imgur.com/ouPmeVUh.jpg)](http://i.imgur.com/ouPmeVU.jpg)
