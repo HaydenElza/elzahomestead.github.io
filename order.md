@@ -7,18 +7,13 @@ permalink: /order/
 WHOLESALE INFO
 
 All wholesale inquiries are welcome including: Restaurants, Grocers, CO-OPs, CSAs, and Wholesale Buyers. 
-For more info please contact us:
 
+For more info please contact us:
 
 Email: jared@elzahomestead.com
 
-
 Call Jared: (920)215-9623
-
-
-
-
-
+<br><br><br>
 CUSTOMER DIRECT SUBSCRIPTIONS
 
 Available for Subscriptions:
@@ -32,8 +27,7 @@ Available for Subscriptions:
 -8oz. Weekly pickup, 1 month(4 week) subscription = $56	
 
 -4oz. Weekly pickup, 1 month(4 week) subscription = $32
- 
-
+<br>
 In the Future:
 
 *Microgreens: Italian Large Leaf Basil & Triton Purple Radish
