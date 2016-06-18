@@ -45,19 +45,16 @@ In the Future:
 *Yellow Perch (raised in Aquaponics) 
 
 *Suggestions welcome!
-
 <br>
 Payments:
 
 We currently accept Cash, Check, or Paypal. Invoices sent through Paypal offer debit, credit, Paypal balance, and other forms of payment via Paypal services for your convenience. 
-
 <br>
 Drop Off/ Pickup Sites:
 
 1. 8821 Ann Street Eureka, WI. - Tuesdays 8am-7pm
 
 *more to come! drop off/ pickup site inquiries welcome!
-
 <br>
 How it works:
 
