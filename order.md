@@ -9,7 +9,9 @@ WHOLESALE INFO
 All wholesale inquiries are welcome including: Restaurants, Grocers, CO-OPs, CSAs, and Wholesale Buyers. 
 For more info please contact us:
 
+
 Email: jared@elzahomestead.com
+
 
 Call Jared: (920)215-9623
 
