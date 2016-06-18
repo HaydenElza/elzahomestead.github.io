@@ -1,14 +1,58 @@
 ---
 layout: page
-title: Weekly Orders
+title: How to order
 permalink: /order/
 ---
 
-Here you will find weekly listings of what we have available.
-More info to come!
+######Wholesale Info
 
-<br><br>
+All wholesale inquiries are welcome including: Restaurants, Grocers, CO-OPs, CSAs, and Wholesale Buyers. 
+For more info please contact us: 
+Email: jared@elzahomestead.com
+Call Jared: (920)215-9623
 
-##### Weekly Listing:
 
-coming soon!
+
+
+######Customer Direct Subscriptions
+
+##AVAILABLE FOR SUBSCRIPTION:
+ Microgreens:	*Speckled Pea Shoots 
+				*Daikon Radish Shoots 
+				*50/50 Mix (½ Pea, ½ Radish)
+ -8oz. Weekly pickup, 1 month(4 week) subscription = $56 
+ -4oz. Weekly pickup, 1 month(4 week) subscription = $32
+ 
+
+##IN THE FUTURE:  
+ *Microgreens: Italian Large Leaf Basil & Triton Purple Radish
+ *Artisan Salad Mixes 
+ *Greens: Spinach, Kale, Arugula, Tatsoi, and more
+ *Living Head Lettuce  (Aquaponic)
+ *Yellow Perch (raised in Aquaponics) 
+ *Suggestions welcome!
+
+
+##How it works: 
+We grow to order, and typically harvest the same day or within 24hrs prior to delivery for maximum freshness. It can take 1-3 weeks for regular fulfillment. Your first pickup day will start your first monthly(4 week) subscription. Choose which drop site you want to pickup from, your subscription(s) choices, and payment method. Then contact us to get signed up: 
+Email: jared@elzahomestead.com
+Call Jared: (920)215-9623
+
+##Payments:
+We currently accept Cash, Check, or Paypal. Invoices sent through Paypal offer debit, credit, Paypal balance, and other forms of payment via Paypal services for your convenience. 
+
+##Drop off/ Pickup sites:
+1. 8821 Ann Street Eureka, WI. - Tuesdays 8am-7pm
+*more to come! drop off/ pickup site inquiries welcome!
+
+
+
+
+
+
+
+
+
+
+
+
