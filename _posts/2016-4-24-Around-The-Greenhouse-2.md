@@ -23,7 +23,7 @@ We painted the inside of the end walls with white paint to reflect the light and
 
 [![](http://i.imgur.com/Vu5Xcabh.jpg)](http://i.imgur.com/Vu5Xcab.jpg)
 
-Finally got around to starting our rain water catchment system. It is only collecting from the north half of our house's roof until I can find some more rain gutter. The plan is to collect rain from both sides of the house roof and the greenhouse. So far the system is composed of a 275 gal food grade bulk tank and some pvc pipe to route water to the tank. 
+Finally got around to starting our rain water catchment system. It is only collecting from the north half of our house's roof until I can find some more rain gutter. The plan is to collect rain from both sides of the house roof and the greenhouse. So far the system is composed of a 275 gal food grade bulk tank and some pvc pipe to route water to the tank. :)
 
 [![](http://i.imgur.com/ske4ySEh.jpg)](http://i.imgur.com/ske4ySE.jpg)
 

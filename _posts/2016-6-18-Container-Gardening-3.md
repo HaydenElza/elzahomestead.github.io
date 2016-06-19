@@ -2,7 +2,7 @@
 layout: post
 title:  "Container Gardening - 3"
 date:   2016-6-18
-preview: http://i.imgur.com/pWny3M6.jpg
+preview: http://i.imgur.com/pWny3M6h.jpg
 categories:
 - Greenhouse
 - TLO Soil Grown
@@ -12,7 +12,7 @@ tags:
 - TLO Soil Grown
 - Container Gardening
 ---
-It has been a month now since the last update and much has changed. Most of the testing I was performing is complete. The leaf lettuces have been removed since they bolted. They did not make the cut due to poor flavor. How ever the Livingston cutting mix was well received and we will be considering it as a production item. 
+It has been a month now since the last update and much has changed. Most of the testing I was performing is complete. The leaf lettuces have been removed since they bolted. They did not make the cut due to poor flavor. How ever the Livingston cutting mix was well received and we will be considering it as a production item. :)
 
 <br>
 

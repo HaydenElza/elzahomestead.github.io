@@ -14,7 +14,7 @@ tags:
 - Processing Area
 - TLO
 ---
-This will serve as a seed starting greenhouse and our processing area for this site. All that needs to be done is add the poly film and the structure will be ready. 
+This will serve as a seed starting greenhouse and our processing area for this site. All that needs to be done is add the poly film and the structure will be ready. :)
 
 <br>
 

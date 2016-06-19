@@ -15,6 +15,6 @@ tags:
 ---
 SPIN Farming = Small Plot INtensive
 
-Just a sneek peak of our 2,600+sqft outdoor SPIN farming plot.
+Just a sneek peak of our 2,600+sqft outdoor SPIN farming plot. :)
 
 [![](http://i.imgur.com/3p2DN6nh.jpg)](http://i.imgur.com/3p2DN6n.jpg)

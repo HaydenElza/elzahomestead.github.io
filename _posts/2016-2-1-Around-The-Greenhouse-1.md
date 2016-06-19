@@ -46,7 +46,7 @@ The fan draws air from outside so that the stove will not create a draft from an
 
 [![](http://i.imgur.com/fEnW0Cqh.jpg)](http://i.imgur.com/fEnW0Cq.jpg)
 
-I had to make a "broom" to sweep snow off the greenhouse film. It started as a foam snow brush for cars.
+I had to make a "broom" to sweep snow off the greenhouse film. It started as a foam snow brush for cars. :)
 
 [![](http://i.imgur.com/gd18Fxch.jpg)](http://i.imgur.com/gd18Fxc.jpg)
 

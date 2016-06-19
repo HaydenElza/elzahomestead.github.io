@@ -46,7 +46,7 @@ Plywood sides walls in place, just need the temps to cooperate so the paint can 
 
 [![](http://i.imgur.com/jv9lIjNh.jpg)](http://i.imgur.com/jv9lIjN.jpg)
 
-A good portion of the painting is done! Just the face of the hoops left to paint, this is done to protect the plastic greenhouse film from degradation due to off gassing from the PVC.
+A good portion of the painting is done! Just the face of the hoops left to paint, this is done to protect the plastic greenhouse film from degradation due to off gassing from the PVC. :)
 
 [![](http://i.imgur.com/C6PYXOch.jpg)](http://i.imgur.com/C6PYXOc.jpg)
 
