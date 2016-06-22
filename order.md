@@ -15,7 +15,7 @@ Sat:	8:00 am - 2:00 pm
 
 FRESH deliveries Tuesdays and Fridays
 
-Available soon:
+Available mid July:
 
 *Speckled Pea Microgreens
 
