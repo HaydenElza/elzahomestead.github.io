@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to order
+title: Where to Buy
 permalink: /order/
 ---
 Where to buy:
@@ -9,6 +9,9 @@ Kountry Pride Farms, Sauasage and Meats Shop
 
 8899 State Road 21
 Omro WI 54963 
+
+Mon-Fri:	8:30 am - 5:30 pm
+Sat:	8:00 am - 2:00 pm
 
 FRESH deliveries Tuesdays and Fridays
 
