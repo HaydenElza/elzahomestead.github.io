@@ -3,32 +3,23 @@ layout: page
 title: How to order
 permalink: /order/
 ---
+Where to buy:
 
-WHOLESALE INFO
+Kountry Pride Farms
+8899 State Road 21
+Omro WI 54963 
 
-All wholesale inquiries are welcome including: Restaurants, Grocers, CO-OPs, CSAs, and Wholesale Buyers. 
+FRESH deliveries Tuesdays and Fridays
 
-For more info please contact us:
-
-Email: jared@elzahomestead.com
-
-Call Jared: (920)215-9623
-
-<br><br><br>
-
-CUSTOMER DIRECT SUBSCRIPTIONS
-
-Available for Subscriptions:
+Available soon:
 
 *Speckled Pea Microgreens
 
 *Daikon Radish Microgreens
 
-*50/50 Mix (1/2 Pea, 1/2 Radish)
+4oz and 8oz containers
 
--8oz. Weekly pickup, 1 month(4 week) subscription = $56	
-
--4oz. Weekly pickup, 1 month(4 week) subscription = $32
+Kountry Pride is our exclusive retailer for Omro, Berlin, Oshkosh, Larsen, Winneconnie, Eureka, Poysippi and the surrounding areas!
 
 <br>
 
@@ -46,36 +37,16 @@ In the Future:
 
 *Suggestions welcome!
 
-<br>
 
-Payments:
+<br><br><br>
 
-We currently accept Cash, Check, or Paypal. Invoices sent through Paypal offer debit, credit, Paypal balance, and other forms of payment via Paypal services for your convenience. 
 
-<br>
+WHOLESALE INFO
 
-Drop Off/ Pickup Sites:
+All wholesale inquiries are welcome including: Restaurants, Grocers, CO-OPs, CSAs, and Wholesale Buyers. 
 
-Site #1: 8821 Ann Street Eureka, WI. - Tuesdays 8am-7pm
-
-*more to come! drop off/ pickup site inquiries welcome!
-
-<br>
-
-How it works:
-
-We grow to order, and typically harvest the same day or within 24hrs prior to delivery for maximum freshness. It can take 1-3 weeks for regular fulfillment. Your first pickup day will start your first monthly(4 week) subscription. Choose which drop site you want to pickup from, your subscription(s) choices, and payment method. Then contact us to get signed up: 
+For more info please contact us:
 
 Email: jared@elzahomestead.com
 
 Call Jared: (920)215-9623
-
-
-
-
-
-
-
-
-
-
