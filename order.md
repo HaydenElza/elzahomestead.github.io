@@ -13,6 +13,8 @@ Sat:	8:00 am - 2:00 pm
 
 FRESH deliveries Tuesdays and Fridays
 
+Kountry Pride is our exclusive retailer for Omro, Berlin, Oshkosh, Larsen, Winneconnie, Eureka, Poysippi and the surrounding areas!
+
 Available mid July:
 
 *Speckled Pea Microgreens
@@ -20,8 +22,6 @@ Available mid July:
 *Daikon Radish Microgreens
 
 4oz and 8oz containers
-
-<br>
 
 In the Future:
 
@@ -37,13 +37,11 @@ In the Future:
 
 *Suggestions welcome!
 
-Kountry Pride is our exclusive retailer for Omro, Berlin, Oshkosh, Larsen, Winneconnie, Eureka, Poysippi and the surrounding areas!
-
 
 <br><br><br><br>
 
 
-#WHOLESALE INFO
+*WHOLESALE INFO
 
 All wholesale inquiries are welcome including: Restaurants, Grocers, CO-OPs, CSAs, and Wholesale Buyers. 
 
