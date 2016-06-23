@@ -3,8 +3,6 @@ layout: page
 title: Where to Buy
 permalink: /order/
 ---
-Where to buy:
-
 Kountry Pride Farms, Sauasage and Meats Shop
 
 8899 State Road 21
@@ -23,8 +21,6 @@ Available mid July:
 
 4oz and 8oz containers
 
-Kountry Pride is our exclusive retailer for Omro, Berlin, Oshkosh, Larsen, Winneconnie, Eureka, Poysippi and the surrounding areas!
-
 <br>
 
 In the Future:
@@ -41,11 +37,13 @@ In the Future:
 
 *Suggestions welcome!
 
+Kountry Pride is our exclusive retailer for Omro, Berlin, Oshkosh, Larsen, Winneconnie, Eureka, Poysippi and the surrounding areas!
 
-<br><br><br>
+
+<br><br><br><br>
 
 
-WHOLESALE INFO
+#WHOLESALE INFO
 
 All wholesale inquiries are welcome including: Restaurants, Grocers, CO-OPs, CSAs, and Wholesale Buyers. 
 
