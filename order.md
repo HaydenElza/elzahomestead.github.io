@@ -15,6 +15,8 @@ FRESH deliveries Tuesdays and Fridays
 
 Kountry Pride is our exclusive retailer for Omro, Berlin, Oshkosh, Larsen, Winneconnie, Eureka, Poysippi and the surrounding areas!
 
+<br>
+
 Available mid July:
 
 *Speckled Pea Microgreens
@@ -41,7 +43,7 @@ In the Future:
 <br><br><br><br>
 
 
-*WHOLESALE INFO
+WHOLESALE INFO
 
 All wholesale inquiries are welcome including: Restaurants, Grocers, CO-OPs, CSAs, and Wholesale Buyers. 
 
