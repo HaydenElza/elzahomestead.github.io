@@ -3,7 +3,7 @@ layout: page
 title: Where to Buy
 permalink: /order/
 ---
-Kountry Pride Farms, Sauasage and Meats Shop
+Kountry Pride Farms, Sauasage and Meat Shop
 
 8899 State Road 21
 Omro WI 54963 
