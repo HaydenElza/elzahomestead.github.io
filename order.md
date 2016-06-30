@@ -3,7 +3,7 @@ layout: page
 title: Where to Buy
 permalink: /order/
 ---
-#### Retail Outlets
+#### RETAIL OUTLETS
 coming soon
 
 Kountry Pride Farms, Sauasage and Meat Shop
@@ -36,7 +36,7 @@ In the Future:
 <br><br><br><br>
 <br><br><br><br>
 
-#### Restaurants
+#### RESTAURANTS
 coming soon
 
 Little Fat Gretchen
