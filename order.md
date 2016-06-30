@@ -6,10 +6,8 @@ permalink: /order/
 #### RETAIL OUTLETS
 coming in July
 
-Kountry Pride Farms, Sauasage and Meat Shop
-
-8899 State Road 21
-
+Kountry Pride Farms, Sauasage and Meat Shop  
+8899 State Road 21  
 Omro, WI
 
 Mon-Fri:	8:30 am - 5:30 pm
