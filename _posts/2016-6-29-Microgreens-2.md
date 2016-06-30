@@ -19,7 +19,7 @@ A nice shot of one of the many ways to use microgreens... A couple of 1/2lb. Kou
 
 <br>
 
-This is what the micros look like when they are ready for harvest. :)
+This is what the micros look like when they are ready for harvest. :+1:
 
 [![](http://i.imgur.com/x83HVFhh.jpg)](http://i.imgur.com/x83HVFh.jpg)
 

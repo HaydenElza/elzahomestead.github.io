@@ -23,7 +23,7 @@ Available mid July:
 
 *Daikon Radish Microgreens
 
-4oz and 8oz containers
+2oz and 4oz containers
 
 In the Future:
 
@@ -41,9 +41,10 @@ In the Future:
 
 
 <br><br><br><br>
+<br><br><br><br>
 
 
-WHOLESALE INFO
+## WHOLESALE INFO
 
 All wholesale inquiries are welcome including: Restaurants, Grocers, CO-OPs, CSAs, and Wholesale Buyers. 
 
