@@ -13,7 +13,7 @@ Omro, WI
 Mon-Fri:	8:30 am - 5:30 pm  
 Sat:	8:00 am - 2:00 pm  
 
-https://www.facebook.com/Kountry-Pride-Farms-Sausage-Meat-Shop-193450167341775/
+[Kountry Pride Farms on Facebook](https://www.facebook.com/Kountry-Pride-Farms-Sausage-Meat-Shop-193450167341775/)
 
 FRESH deliveries twice a week!
 
