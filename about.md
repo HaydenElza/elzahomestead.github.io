@@ -9,8 +9,6 @@ Year round Aquaponic Greenhouse & Microgreens production. Seasonal SPIN farming.
 We are a family homestead based business focused on local and sustainable food production. Although not certified, we use only natural and organic methods. We never us harmful pesticides, herbicides, chemicals, or GMOs. We believe in teaming up with nature while integrating new technologies. : ) 
 <br>
 
-Jared Elza
-
-Elza Homestead
-
-Wautoma, WI 54982
+Jared Elza  
+Elza Homestead  
+Wautoma, WI 54982  
