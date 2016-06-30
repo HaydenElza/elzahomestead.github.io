@@ -17,10 +17,6 @@ Sat:	8:00 am - 2:00 pm
 
 FRESH deliveries twice a week!
 
-Kountry Pride Farms is our exclusive retailer for Omro, Berlin, Oshkosh, Larsen, Winneconnie, Eureka, Poysippi and the surrounding areas!
-
-<br>
-
 Available mid July:  
 * Speckled Pea Microgreens  
 * Daikon Radish Microgreens  
@@ -33,6 +29,8 @@ In the Future:
 * Living Head Lettuce  (Aquaponic)  
 * Yellow Perch (raised in Aquaponics)  
 * Suggestions welcome!  
+
+Kountry Pride Farms is our exclusive retailer for Omro, Berlin, Oshkosh, Larsen, Winneconnie, Eureka, Poysippi and the surrounding areas!
 
 <br><br><br><br>
 <br><br><br><br>
@@ -48,7 +46,7 @@ Mon-Thu:	6:00 am - 7:00 pm
 Fri-Sat:	6:00 am - 8:00 pm  
 Sun:	6:00 am - 7:00 pm  
 
-https://www.facebook.com/LittleFatGretchens/
+[Little Fat Gretchen on Facebook](https://www.facebook.com/LittleFatGretchens/)
 
 <br><br><br><br>
 <br><br><br><br>
