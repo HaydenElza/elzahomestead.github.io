@@ -2,7 +2,7 @@
 layout: post
 title:  "Microgreens - 2"
 date:   2016-6-29
-preview: "http://i.imgur.com/x83HVFhh.jpg"
+preview: "http://i.imgur.com/hEvF4Clh.jpg"
 categories:
 - Microgreens
 - TLO Soil Grown
