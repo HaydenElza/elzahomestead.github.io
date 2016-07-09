@@ -4,7 +4,6 @@ title: Where to Buy
 permalink: /order/
 ---
 #### RETAIL OUTLETS
-coming in July
 
 Kountry Pride Farms, Sauasage and Meat Shop  
 8899 State Road 21  
@@ -17,7 +16,7 @@ Sat:	8:00 am - 2:00 pm
 
 FRESH deliveries twice a week!
 
-Available mid July:  
+Available Now:  
 * Speckled Pea Microgreens  
 * Daikon Radish Microgreens  
 2oz and 4oz containers  
@@ -36,7 +35,6 @@ Kountry Pride Farms is our exclusive retailer for Omro, Berlin, Oshkosh, Larsen,
 <br><br><br><br>
 
 #### RESTAURANTS
-coming in July
 
 Little Fat Gretchen  
 108 S Main St  
