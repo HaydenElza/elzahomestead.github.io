@@ -14,7 +14,7 @@ tags:
 
 Our microgreens proudly displayed for sale at Kountry Pride! Stop by and pick some up, but don't forget to check out everything Kountry Pride has to offer. 
 
-Kountry Pride has stock of Daikon Radish and Speckled Pea microgreens with fresh deliveries on Tuesdays and Fridays. We will be introducing Triton Radishes on Friday the 15th of July. We will be introducing more greens as they become available with Spinach, Arugula, and Artisan Salad Mixes coming soon. 
+Kountry Pride has stock of Daikon Radish and Speckled Pea microgreens with fresh deliveries on Tuesdays and Fridays. We will be introducing Triton Radish microgreens on Friday the 15th of July. We will be introducing more greens as they become available with Spinach, Arugula, and Artisan Salad Mixes coming soon. 
 
 Visit our [Where to Buy](http://elzahomestead.com/order/) page for more info! :)
 
