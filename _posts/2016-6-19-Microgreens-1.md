@@ -12,11 +12,9 @@ tags:
 - Soil Grown
 - TLO
 ---
-Here is our microgreens operation. We have Daikon Radish and Speckled Pea pictured below. More varieties to come soon! They are grown from organic seed in high quality organic soil. Why microgreens? They are a super food! A study done at The University of Maryland ultimately discovered that the microgreens contained four to 40 times more nutrients than their mature counterparts.
+Here is our microgreens operation. We have Daikon Radish and Speckled Pea pictured below. More varieties to come soon! They are grown from organic seed in high quality organic soil. 
 <br>
-http://agnr.umd.edu/news/mighty-microgreens
-<br>
-They go great in sandwiches, especially tuna and chicken salad. They are also excellent with soup and of course on top of a salad. I will post a list of 52 microgreen recipe ideas below the pics for anyone interested. :)
+They go great with burgers and sandwiches, especially tuna and chicken salad. They are also excellent with soup and of course on top of a salad. I will post a list of 52 microgreen recipe ideas below the pics for anyone interested. :)
 
 <br>
 

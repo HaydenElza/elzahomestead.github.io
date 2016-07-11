@@ -12,7 +12,13 @@ tags:
 - Retail Sales
 ---
 
-Our microgreens proudly displayed for sale at Kountry Pride! Stop by and pick some up, but don't forget to check out everything Kountry Pride has to offer. 
+Our microgreens proudly displayed for sale at Kountry Pride! Stop by and pick some up, but don't forget to check out everything Kountry Pride has to offer.
+
+Kountry Pride Farms, Sauasage and Meat Shop  
+8899 State Road 21  
+Omro, WI  
+Mon-Fri:	8:30 am - 5:30 pm  
+Sat:	8:00 am - 2:00 pm   
 
 Kountry Pride has stock of Daikon Radish and Speckled Pea microgreens with fresh deliveries on Tuesdays and Fridays. We will be introducing Triton Radish microgreens on Friday the 15th of July. We will be introducing more greens as they become available with Spinach, Arugula, and Artisan Salad Mixes coming soon. 
 
