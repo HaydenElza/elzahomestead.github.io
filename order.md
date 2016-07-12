@@ -36,7 +36,7 @@ Kountry Pride Farms is our exclusive retailer for Omro, Berlin, Oshkosh, Larsen,
 
 #### RESTAURANTS
 
-Little Fat Gretchen  
+Little Fat Gretchen's  
 108 S Main St  
 Waupaca, WI
 
