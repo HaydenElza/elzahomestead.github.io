@@ -26,7 +26,7 @@ In the Future:
 * Artisan Salad Mixes 
 * Greens: Spinach, Kale, Arugula, Tatsoi, and more  
 * Living Head Lettuce  (Aquaponic)  
-* Yellow Perch (raised in Aquaponics)  
+* Yellow Perch (raised in Aquaponics) 
 * Suggestions welcome!  
 
 Kountry Pride Farms is our exclusive retailer for Omro, Berlin, Oshkosh, Larsen, Winneconnie, Eureka, Poysippi and the surrounding areas!
