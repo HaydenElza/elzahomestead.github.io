@@ -18,11 +18,11 @@ FRESH deliveries twice a week!
 
 Available Now:  
 * Speckled Pea Microgreens  
-* Daikon Radish Microgreens  
-2oz and 4oz containers  
+* Triton Purple Radish Microgreens  
+2oz containers  
 
 In the Future:  
-* Microgreens: Italian Large Leaf Basil & Triton Purple Radish  
+* Genovese Italian Basil Microgreens
 * Artisan Salad Mixes  
 * Greens: Spinach, Kale, Arugula, Tatsoi, and more  
 * Living Head Lettuce  (Aquaponic)  
