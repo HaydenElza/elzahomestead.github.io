@@ -23,7 +23,7 @@ Available Now:
 
 In the Future:  
 * Genovese Italian Basil Microgreens
-* Artisan Salad Mixes  
+* Artisan Salad Mixes 
 * Greens: Spinach, Kale, Arugula, Tatsoi, and more  
 * Living Head Lettuce  (Aquaponic)  
 * Yellow Perch (raised in Aquaponics)  
