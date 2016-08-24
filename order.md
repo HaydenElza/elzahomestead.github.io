@@ -14,16 +14,15 @@ Sat:	8:00 am - 2:00 pm
 
 [Kountry Pride Farms on Facebook](https://www.facebook.com/Kountry-Pride-Farms-Sausage-Meat-Shop-193450167341775/)
 
-FRESH deliveries twice a week!
+FRESH deliveries on Wednesdays!
 
 Available Now:  
 * Speckled Pea Microgreens  
 * Triton Purple Radish Microgreens  
-2oz containers  
+* Artisan Salad Mix 
 
 In the Future:  
 * Genovese Italian Basil Microgreens
-* Artisan Salad Mixes 
 * Greens: Spinach, Kale, Arugula, Tatsoi, and more  
 * Living Head Lettuce  (Aquaponic)  
 * Yellow Perch (raised in Aquaponics) 
