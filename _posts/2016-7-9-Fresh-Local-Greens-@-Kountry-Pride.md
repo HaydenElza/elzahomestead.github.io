@@ -20,7 +20,7 @@ Omro, WI
 Mon-Fri:	8:30 am - 5:30 pm  
 Sat:	8:00 am - 2:00 pm   
 
-Kountry Pride has stock of Daikon Radish and Speckled Pea microgreens with fresh deliveries on Tuesdays and Fridays. We will be introducing Triton Radish microgreens on Friday the 15th of July. We will be introducing more greens as they become available with Spinach, Arugula, and Artisan Salad Mixes coming soon. 
+Kountry Pride has stock of Daikon Radish and Speckled Pea microgreens with fresh deliveries on Wednesdays. We will be introducing Triton Radish microgreens on Friday the 15th of July. We will be introducing more greens as they become available with Spinach, Arugula, and Artisan Salad Mixes coming soon. 
 
 Visit our [Where to Buy](http://elzahomestead.com/order/) page for more info! :)
 
