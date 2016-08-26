@@ -12,7 +12,7 @@ tags:
 - Retail Sales
 ---
 
-Artisan Salad Mix now available @ Country Pride Farms. Fresh deliveries every Wednesday! Don't forget to try out our Microgreens while you are there. 
+Artisan Salad Mix now available @ Kountry Pride Farms. Fresh deliveries every Wednesday! Don't forget to try out our Microgreens while you are there. 
 
 Kountry Pride Farms, Sauasage and Meat Shop  
 8899 State Road 21  
