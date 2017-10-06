@@ -10,5 +10,4 @@ We are a family homestead based business focused on local and sustainable food p
 <br>
 
 Jared Elza  
-Elza Homestead  
-Wautoma, WI 54982  
+Elza Homestead
