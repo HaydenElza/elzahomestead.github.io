@@ -2,7 +2,7 @@
 layout: post
 title:  "SPIN Farming Plot - 1"
 date:   2016-3-19
-preview: "http://i.imgur.com/3p2DN6nh.jpg"
+preview: "https://i.imgur.com/3p2DN6nh.jpg"
 categories:
 - SPIN Farming
 - TLO Soil Grown
@@ -17,4 +17,4 @@ SPIN Farming = Small Plot INtensive
 
 Just a sneek peak of our 2,600+sqft outdoor SPIN farming plot. :)
 
-[![](http://i.imgur.com/3p2DN6nh.jpg)](http://i.imgur.com/3p2DN6n.jpg)
+[![](https://i.imgur.com/3p2DN6nh.jpg)](https://i.imgur.com/3p2DN6n.jpg)

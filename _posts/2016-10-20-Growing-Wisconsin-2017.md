@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Growing Wisconsin 2017"
-preview: "http://i.imgur.com/1xAS5vqh.jpg"
+preview: "https://i.imgur.com/1xAS5vqh.jpg"
 date:   2016-10-20
 categories:
 - Aquaponics

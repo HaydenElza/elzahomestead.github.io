@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Microgreens ?"
 date:   2016-7-11
-preview: "http://i.imgur.com/Q5jofphh.jpg"
+preview: "https://i.imgur.com/Q5jofphh.jpg"
 categories:
 - Microgreens
 - TLO Soil Grown

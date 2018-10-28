@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fresh Local Greens @ Kountry Pride"
-preview: "http://i.imgur.com/jx1MIVFh.jpg"
+preview: "https://i.imgur.com/jx1MIVFh.jpg"
 date:   2016-7-9
 categories:
 - Microgreens
@@ -24,6 +24,6 @@ Kountry Pride has stock of Daikon Radish and Speckled Pea microgreens with fresh
 
 Visit our [Where to Buy](http://elzahomestead.com/order/) page for more info! :)
 
-[![](http://i.imgur.com/jx1MIVFh.jpg)](http://i.imgur.com/jx1MIVF.jpg)
+[![](https://i.imgur.com/jx1MIVFh.jpg)](https://i.imgur.com/jx1MIVF.jpg)
 
-[![](http://i.imgur.com/tk9S7Hxh.jpg)](http://i.imgur.com/tk9S7Hx.jpg)
+[![](https://i.imgur.com/tk9S7Hxh.jpg)](https://i.imgur.com/tk9S7Hx.jpg)

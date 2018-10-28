@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Artisan Salad Mix now @ Kountry Pride"
-preview: "http://i.imgur.com/Vungyj8h.jpg"
+preview: "https://i.imgur.com/Vungyj8h.jpg"
 date:   2016-8-25
 categories:
 - SPIN Farming
@@ -23,6 +23,6 @@ Sat:	8:00 am - 2:00 pm
 
 Visit our [Where to Buy](http://elzahomestead.com/order/) page for more info! :)
 
-[![](http://i.imgur.com/Vungyj8h.jpg)](http://i.imgur.com/Vungyj8.jpg)
+[![](https://i.imgur.com/Vungyj8h.jpg)](https://i.imgur.com/Vungyj8.jpg)
 
-[![](http://i.imgur.com/3Qlfdgsh.jpg)](http://i.imgur.com/3Qlfdgs.jpg)
+[![](https://i.imgur.com/3Qlfdgsh.jpg)](https://i.imgur.com/3Qlfdgs.jpg)

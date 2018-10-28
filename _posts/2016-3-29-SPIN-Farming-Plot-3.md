@@ -2,7 +2,7 @@
 layout: post
 title:  "SPIN Farming Plot - 3"
 date:   2016-3-29
-preview: "http://i.imgur.com/1Q0pFMyh.jpg"
+preview: "https://i.imgur.com/1Q0pFMyh.jpg"
 categories:
 - SPIN Farming
 - TLO Soil Grown
@@ -18,18 +18,18 @@ We used reinforced poly film to cover the greenhouse/processing area. The film i
 
 <br>
 
-[![](http://i.imgur.com/25PnzzFh.jpg)](http://i.imgur.com/25PnzzF.jpg)
+[![](https://i.imgur.com/25PnzzFh.jpg)](https://i.imgur.com/25PnzzF.jpg)
 
-[![](http://i.imgur.com/UV8epsEh.jpg)](http://i.imgur.com/UV8epsE.jpg)
+[![](https://i.imgur.com/UV8epsEh.jpg)](https://i.imgur.com/UV8epsE.jpg)
 
-[![](http://i.imgur.com/ibrRsByh.jpg)](http://i.imgur.com/ibrRsBy.jpg)
+[![](https://i.imgur.com/ibrRsByh.jpg)](https://i.imgur.com/ibrRsBy.jpg)
 
-[![](http://i.imgur.com/Zivrwffh.jpg)](http://i.imgur.com/Zivrwff.jpg)
+[![](https://i.imgur.com/Zivrwffh.jpg)](https://i.imgur.com/Zivrwff.jpg)
 
-[![](http://i.imgur.com/YTYWzSih.jpg)](http://i.imgur.com/YTYWzSi.jpg)
+[![](https://i.imgur.com/YTYWzSih.jpg)](https://i.imgur.com/YTYWzSi.jpg)
 
-[![](http://i.imgur.com/qzPhcxTh.jpg)](http://i.imgur.com/qzPhcxT.jpg)
+[![](https://i.imgur.com/qzPhcxTh.jpg)](https://i.imgur.com/qzPhcxT.jpg)
 
-[![](http://i.imgur.com/gbkoULPh.jpg)](http://i.imgur.com/gbkoULP.jpg)
+[![](https://i.imgur.com/gbkoULPh.jpg)](https://i.imgur.com/gbkoULP.jpg)
 
-[![](http://i.imgur.com/1Q0pFMyh.jpg)](http://i.imgur.com/1Q0pFMy.jpg)
+[![](https://i.imgur.com/1Q0pFMyh.jpg)](https://i.imgur.com/1Q0pFMy.jpg)
