@@ -50,3 +50,8 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+footer.page-footer .footer-copyright {
+	overflow: visible !important;
+	line-height: 1 !important;
+}
