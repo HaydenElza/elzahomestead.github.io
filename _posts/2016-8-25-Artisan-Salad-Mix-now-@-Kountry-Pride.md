@@ -21,7 +21,7 @@ Mon-Fri:	8:30 am - 5:30 pm
 Sat:	8:00 am - 2:00 pm   
 
 
-Visit our [Where to Buy](http://elzahomestead.com/order/) page for more info! :)
+Visit our [Where to Buy](https://elzahomestead.com/order/) page for more info! :)
 
 [![](https://i.imgur.com/Vungyj8h.jpg)](https://i.imgur.com/Vungyj8.jpg)
 

@@ -93,10 +93,10 @@ Numbered List:
 <br><br><br>
 
 ~~~
-[Link](http://elzahomestead.com/blog/2015/10/Formatting/)
+[Link](https://elzahomestead.com/blog/2015/10/Formatting/)
 ~~~
 
-[Link](http://elzahomestead.com/blog/2015/10/Formatting/)
+[Link](https://elzahomestead.com/blog/2015/10/Formatting/)
 
 <br><br><br>
 
